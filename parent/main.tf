@@ -3,4 +3,4 @@ module "rg1" {
     azurerm_resource_group =  "rg1"
     azurerm_location =  "West Europe"
   
-}
+#omk
